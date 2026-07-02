@@ -14,3 +14,7 @@ Por lo tanto entre en este con 'msfconsole'. Dentro de este busque por exploits 
 <img width="870" height="294" alt="imagen" src="https://github.com/user-attachments/assets/cc65e7fa-0e1d-4ee6-b680-361e9ff607bf" />
 
 Aqui encontre el exploit que habia que usar, i con el comando 'use' lo prepare, despues puse quien era el atacante i quien la victima con 'set LHOST' i 'set RHOST'.
+
+<img width="861" height="416" alt="imagen" src="https://github.com/user-attachments/assets/99824448-d939-456c-9cca-86a6c78c9b0a" />
+
+I por ultimo con el comando exploit se ejecuta i se abre una terminal Meterpeter, una terminal con herramientas de post explotación, en la maquina victima.
