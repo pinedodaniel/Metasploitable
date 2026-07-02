@@ -9,4 +9,4 @@ Ambas maquinas estan en un entorno cerrado i conectadas por LAN.
 
 ### IP's: 
 
-Para la configuracion la maquina atacante tiene la IP: 192.168.100.10. I la maquina victima 192.168.100.20.
+Para la configuracion la maquina atacante tiene la IP: '192.168.100.10'. I la maquina victima '192.168.100.20'.
