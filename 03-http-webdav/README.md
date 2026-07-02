@@ -13,3 +13,11 @@ Para esto use la herramienta 'davtest' con las credenciales que habia encontrado
 
 <img width="704" height="378" alt="imagen" src="https://github.com/user-attachments/assets/60f91674-cb6e-42e0-948e-d08293152c23" />
 <img width="715" height="523" alt="imagen" src="https://github.com/user-attachments/assets/f43f6763-0ffc-41b4-9bff-ab0977ad244c" />
+
+Con esto no solo supe que se podian subir archivos sino que ademas los podia ejecutar.
+Asi que decidi crear un payload que me diera acceso a shell.
+I use la herramienta de Metasploit 'msfvenom' para crearlo como archivo '.php':
+
+<img width="682" height="108" alt="imagen" src="https://github.com/user-attachments/assets/e1b0c27c-b8fe-487c-848d-0848c038983e" />
+
+Este payload lo que hace es generar codigo en php que, al ejecutarse, abre una sesión Meterpreter que se contecte a 192.168.100.10:4444. Todo esto guardado en un archivo llamado shell.php.
