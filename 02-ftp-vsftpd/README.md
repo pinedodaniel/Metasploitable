@@ -18,3 +18,7 @@ Aqui encontre el exploit que habia que usar, i con el comando 'use' lo prepare, 
 <img width="861" height="416" alt="imagen" src="https://github.com/user-attachments/assets/99824448-d939-456c-9cca-86a6c78c9b0a" />
 
 I por ultimo con el comando exploit se ejecuta i se abre una terminal Meterpeter, una terminal con herramientas de post explotación, en la maquina victima.
+
+<img width="854" height="562" alt="imagen" src="https://github.com/user-attachments/assets/bdcf9938-9535-45aa-9828-e7a4661ce12f" />
+
+A partir de aqui se pueden crear mas usuarios root, robar archivos, etc.
