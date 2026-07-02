@@ -21,3 +21,18 @@ I use la herramienta de Metasploit 'msfvenom' para crearlo como archivo '.php':
 <img width="682" height="108" alt="imagen" src="https://github.com/user-attachments/assets/e1b0c27c-b8fe-487c-848d-0848c038983e" />
 
 Este payload lo que hace es generar codigo en php que, al ejecutarse, abre una sesión Meterpreter que se contecte a 192.168.100.10:4444. Todo esto guardado en un archivo llamado shell.php.
+
+Una vez creado simplemente lo subi con curl y el parametro -T, para subir archivos.
+
+<img width="534" height="43" alt="imagen" src="https://github.com/user-attachments/
+assets/95f75593-4ae3-4336-8359-8aa61c4f37e1" />
+
+Ara que ya se sabe que al visitar se abrira una terminal en el puerto 4444 simplemente habia que dejar alguien escuchando en ese puerto.
+Con una sesión de metasploit puse el listener en el puerto 4444
+
+<img width="1169" height="485" alt="imagen" src="https://github.com/user-attachments/assets/c93e650b-8542-43bf-b77f-752bef95136b" />
+
+I por ultimo quedaba visitar el sitio web en el que esta el payload con un simple curl
+'curl http://192.168.100.20/dav/shell.php'.
+
+
