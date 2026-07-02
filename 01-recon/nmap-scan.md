@@ -8,6 +8,7 @@ Nmap es una herramienta ya incluida en los paquetes de Kali, con esta se pueden 
 - **El estado de los puertos (abierto/cerrado)**
 - **El servicio que se esta hosteando en este puerto**
 - **I la version de el servicio que se proporciona**
+
 No siempre se tiene acceso a todas estas opciones, un ejemplo es:
 <img width="739" height="541" alt="imagen" src="https://github.com/user-attachments/assets/f8c5452c-3ffe-4d66-a3be-dabab62d52cd" />
 
