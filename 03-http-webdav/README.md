@@ -30,9 +30,10 @@ assets/95f75593-4ae3-4336-8359-8aa61c4f37e1" />
 Ara que ya se sabe que al visitar se abrira una terminal en el puerto 4444 simplemente habia que dejar alguien escuchando en ese puerto.
 Con una sesión de metasploit puse el listener en el puerto 4444
 
-<img width="1169" height="485" alt="imagen" src="https://github.com/user-attachments/assets/c93e650b-8542-43bf-b77f-752bef95136b" />
+<img width="1160" height="471" alt="imagen" src="https://github.com/user-attachments/assets/01d89a60-01b1-41ca-b795-412fcbf4a48c" />
 
 I por ultimo quedaba visitar el sitio web en el que esta el payload con un simple curl
 'curl http://192.168.100.20/dav/shell.php'.
+I una vez se ejecuta se abre una terminal Meterpreter
 
-
+<img width="1164" height="534" alt="imagen" src="https://github.com/user-attachments/assets/ff50470e-5331-4a67-8a8b-46339fea8f6c" />
