@@ -1,5 +1,7 @@
+## Configuracion:
 Este laboratorio de pentesting esta compuesto de dos maquinas virtuales principales:
 La maquina atacante, desde la que ejecuto los ataques, que usa la distribucion de Kali Linux.
 La maquina victima, que esta llena de vulnerabilidades, usa una version antigua de Ubuntu.
 Ambas maquina estan en un entorno cerrado i conectadas por LAN.
+### IP's:
 Para la configuracion la maquina atacante tiene la IP: 192.168.100.10. I la maquina victima 192.168.100.20.
