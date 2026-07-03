@@ -20,4 +20,7 @@ sudo arpspoof -i eth0 -t 192.168.100.20 192.168.100.30
 Ahora mediante la herramienta wireshark empezamos a capturar el trafico que circula por la red a la que esta conectada la maquina atacante. De esta entramos a eth0 que es por donde se estan conectando las dos maquinas victima y aplicamos un filtro para leer solo al puerto 23:
 tcp.port == 23
 
-Ahora desde nuestra nueva 3era maquina nos conectamos con telnet a la maquina Metasploitable.
+<img width="1543" height="715" alt="imagen" src="https://github.com/user-attachments/assets/10fbf454-eafa-4d4b-b5b7-2eb8df245e70" />
+
+
+Ahora desde nuestra nueva 3era maquina nos conectamos con telnet a la maquina Metasploitable con las credenciales que nos sabemos legitimamente.
