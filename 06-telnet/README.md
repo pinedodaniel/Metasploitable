@@ -24,3 +24,9 @@ tcp.port == 23
 
 
 Ahora desde nuestra nueva 3era maquina nos conectamos con telnet a la maquina Metasploitable con las credenciales que nos sabemos legitimamente.
+I finalmente desde wireshark, haciendo click derecho en cualquier paquete de protocolo tcp, a la opción follow > TCP stream.
+Nos encontraremos esto:
+
+<img width="713" height="412" alt="imagen" src="https://github.com/user-attachments/assets/bb26c671-3f2b-4cb8-a230-f403dab70c49" />
+
+Que aunque tenga un formato raro, debido a que telnet envia los paquetes de texto caracter por caracter, se puede ver que el usuario y contraseña son msfadmin y msfadmin.
