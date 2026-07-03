@@ -9,4 +9,9 @@ Con un simple comando se puede comprovar que si es possible:
 
 Ahora usando Metasploit simplemente hay que buscar con 'search' UnrealIRCd y el unico exploit, que es de backdoor, y usarlo con el comando 'use'.
 
-Ahora para saber que opciones hay que completar para usar Metasploit usamos 'show options'
+Ahora para saber que opciones hay que completar para usar Metasploit usamos 'show options', y completamos 'set LHOST', 'set RHOST' y 'set PAYLOAD'.
+
+<img width="938" height="233" alt="imagen" src="https://github.com/user-attachments/assets/9efe71af-9af7-4163-8dd2-695844e5958f" />
+
+<img width="1218" height="525" alt="imagen" src="https://github.com/user-attachments/assets/08ac4905-2894-4a10-b8eb-560ee9b1c60a" />
+
