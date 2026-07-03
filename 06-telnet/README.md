@@ -30,3 +30,4 @@ Nos encontraremos esto:
 <img width="713" height="412" alt="imagen" src="https://github.com/user-attachments/assets/bb26c671-3f2b-4cb8-a230-f403dab70c49" />
 
 Que aunque tenga un formato raro, debido a que telnet envia los paquetes de texto caracter por caracter, se puede ver que el usuario y contraseña son msfadmin y msfadmin.
+Con esto ya se podria acceder a la maquina victima desde nuestro propio telnet o usar estas credenciales para otro tipo de ataques que nos den shells con mejores permisos.
