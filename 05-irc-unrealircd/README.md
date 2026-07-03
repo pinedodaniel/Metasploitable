@@ -15,3 +15,5 @@ Ahora para saber que opciones hay que completar para usar Metasploit usamos 'sho
 
 <img width="1218" height="525" alt="imagen" src="https://github.com/user-attachments/assets/08ac4905-2894-4a10-b8eb-560ee9b1c60a" />
 
+Una vez todo configurado simplemente se ejecuta con exploit y eso abre una terminal root con la que se podrian crear mas usuarios root para mantener el control sobre la maquina
+victima, se podrian robar/encriptar archivos y una infinidad de usos mas.
