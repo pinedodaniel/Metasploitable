@@ -7,6 +7,6 @@ Con un simple comando se puede comprovar que si es possible:
 
 ## Metasploit
 
-Ahora usando Metasploit simplemente hay que buscar con 'search' UnrealIRCd y el unico exploit, que es de backdoor, usarlo con el comando 'use'.
+Ahora usando Metasploit simplemente hay que buscar con 'search' UnrealIRCd y el unico exploit, que es de backdoor, y usarlo con el comando 'use'.
 
-Ahora para saber que 
+Ahora para saber que opciones hay que completar para usar Metasploit usamos 'show options'
