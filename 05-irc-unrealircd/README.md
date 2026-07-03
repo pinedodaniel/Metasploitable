@@ -17,3 +17,5 @@ Ahora para saber que opciones hay que completar para usar Metasploit usamos 'sho
 
 Una vez todo configurado simplemente se ejecuta con exploit y eso abre una terminal root con la que se podrian crear mas usuarios root para mantener el control sobre la maquina
 victima, se podrian robar/encriptar archivos y una infinidad de usos mas.
+
+<img width="778" height="259" alt="imagen" src="https://github.com/user-attachments/assets/427e90fc-ecf9-49e4-8122-532e3e097671" />
