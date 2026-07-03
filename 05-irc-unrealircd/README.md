@@ -5,3 +5,8 @@ Con un simple comando se puede comprovar que si es possible:
 
 <img width="1165" height="207" alt="imagen" src="https://github.com/user-attachments/assets/485aadc3-8202-485b-b2b7-9d63a2a02b1b" />
 
+##Metasploit
+
+Ahora usando Metasploit simplemente hay que buscar con 'search' UnrealIRCd y el unico exploit, que es de backdoor, usarlo con el comando 'use'.
+
+Ahora para saber que 
