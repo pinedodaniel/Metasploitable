@@ -15,4 +15,4 @@ No siempre se tiene acceso a todas estas opciones, un ejemplo es:
 <img width="739" height="541" alt="imagen" src="https://github.com/user-attachments/assets/f8c5452c-3ffe-4d66-a3be-dabab62d52cd" />
 
 En el puerto 6000 se puede ver que que en la version pone (acces denied).
-I en otras la version no se especifica del todo.
+Y en otras la version no se especifica del todo.
